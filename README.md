@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Asilper86"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Desarrollo+web+con+Laravel+y+JavaScript;Automatizaci%C3%B3n+con+Python;Auditor%C3%ADa+y+QA+de+aplicaciones+en+producci%C3%B3n;Power+BI+%C2%B7+Azure+%C2%B7+IoT" alt="Typing"/></a>
+  <a href="https://github.com/Asilper86"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Desarrollo+web+con+Laravel+y+JavaScript;Automatizaci%C3%B3n+con+Python;Inteligencia+Artificial+aplicada;Auditor%C3%ADa+y+QA+de+aplicaciones+en+producci%C3%B3n;Power+BI+%C2%B7+Azure+%C2%B7+IoT" alt="Typing"/></a>
 </p>
 
 ---
@@ -22,8 +22,8 @@
 
 - 🏭 **QA de aplicaciones en producción** en **Savian Robotics** (desde jun. 2026): pruebo y audito portales web, dashboards Power BI y sensores IoT, y doy soporte técnico.
 - 🌐 **Prácticas de desarrollo web** en Savian Robotics (mar.–jun. 2026).
-- 🎓 Titulado en **DAW** y cursando el **Curso de Especialización en Desarrollo de Aplicaciones en Python** (IES Al-Andalus, Almería).
-- ⚙️ Me apasiona **automatizar**: auditorías automáticas, informes programados con Azure Functions, Raspberry Pi y herramientas con IA.
+- 🎓 Titulado en **SMR** (2022–2024) y **DAW** (2024–2026), y cursando el **Curso de Especialización en Desarrollo de Aplicaciones en Python** (IES Al-Andalus, Almería).
+- 🤖 Desarrollo **automatizaciones con IA** y me apasiona automatizar: auditorías automáticas, informes programados con Azure Functions, Raspberry Pi y herramientas con IA.
 
 </td>
 <td width="45%" valign="top">
@@ -35,12 +35,32 @@ class Adrian:
     datos    = ["Power BI", "SQL Server"]
     cloud    = ["Azure Functions"]
     hardware = ["Raspberry Pi", "IoT"]
+    ia       = ["LLMs", "Agentes"]
     aprendiendo = "Python avanzado"
 ```
 
 </td>
 </tr>
 </table>
+
+## 🤖 Automatización e IA
+
+<table>
+<tr>
+<td align="center" width="25%">⚙️<br/><b>Automatización</b><br/><sub>Scripts y tareas programadas en Python</sub></td>
+<td align="center" width="25%">🧠<br/><b>IA aplicada</b><br/><sub>Agentes y LLMs para auditorías y soporte</sub></td>
+<td align="center" width="25%">☁️<br/><b>Cloud</b><br/><sub>Informes automáticos con Azure Functions</sub></td>
+<td align="center" width="25%">🍓<br/><b>IoT</b><br/><sub>Raspberry Pi, cámaras y sensores</sub></td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+</p>
 
 ## 🧭 Trayectoria
 
@@ -49,7 +69,8 @@ class Adrian:
 | `Oct 2026 – hoy` | 🎓 Especialización en Desarrollo de Aplicaciones en Python | IES Al-Andalus |
 | `Jun 2026 – hoy` | 🧪 QA / testing de aplicaciones en producción y soporte | Savian Robotics |
 | `Mar – Jun 2026` | 💻 Prácticas de desarrollo web | Savian Robotics |
-| `– 2026` | 🎓 Grado Superior DAW | |
+| `2024 – 2026` | 🎓 Grado Superior en Desarrollo de Aplicaciones Web (DAW) | |
+| `2022 – 2024` | 🖥️ Grado Medio en Sistemas Microinformáticos y Redes (SMR) | |
 
 ## 🛠️ Stack
 
@@ -74,16 +95,16 @@ class Adrian:
 <tr>
 <td width="50%" valign="top">
 
-### 📡 [SavianDM](https://github.com/Asilper86/SavianDM)
-Gestor de dispositivos: alta, estado y control de equipos y sensores.
+### 📡 DeviceHub
+Gestor de dispositivos IoT: alta, estado y control de equipos y sensores.
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Blade](https://img.shields.io/badge/Blade-F05340?style=flat-square&logo=laravel&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 savian-auditory <sub>· privado</sub>
-Auditorías automáticas y en paralelo de portales web y dashboards Power BI, con detección y registro de errores.
+### 🔍 AutoAudit <sub>· privado</sub>
+Auditorías automáticas y en paralelo de portales web y dashboards Power BI con IA: detección, clasificación y registro de errores.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
@@ -110,7 +131,7 @@ Gestión de biblioteca con autenticación, roles y préstamos.
 <tr>
 <td width="50%" valign="top">
 
-### 🗓️ savian-planner <sub>· privado</sub>
+### 🗓️ TaskFlow Planner <sub>· privado</sub>
 Planificador interno para organizar tareas de equipo.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
