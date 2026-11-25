@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Adri%C3%A1n%20Siles&fontSize=44&fontColor=ffffff&desc=Developer%20%C2%B7%20QA%20%40%20Savian%20Robotics&descAlignY=72"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Adri%C3%A1n%20Siles&fontSize=44&fontColor=ffffff&desc=Developer%20%C2%B7%20QA%20%C2%B7%20Automatizaci%C3%B3n&descAlignY=72"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Python+%C2%B7+Laravel+%C2%B7+JavaScript;Automatizaci%C3%B3n+y+auditor%C3%ADas+de+software;IoT%2C+Power+BI+y+Azure"/>
@@ -48,6 +48,3 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asilper86&theme=tokyonight&hide_border=true&locale=es"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer"/>
