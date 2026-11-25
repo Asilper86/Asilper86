@@ -1,50 +1,142 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Adri%C3%A1n%20Siles&fontSize=44&fontColor=ffffff&desc=Developer%20%C2%B7%20QA%20%C2%B7%20Automatizaci%C3%B3n&descAlignY=72"/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Python+%C2%B7+Laravel+%C2%B7+JavaScript;Automatizaci%C3%B3n+y+auditor%C3%ADas+de+software;IoT%2C+Power+BI+y+Azure"/>
+  <img src="./assets/banner.svg" alt="Adrián Siles Pérez — Developer · QA · Automatización" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://portfolio-adrian-siles-perez.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/></a>
-  <a href="https://github.com/Asilper86"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-  <img src="https://img.shields.io/badge/Almería,_España-E34F26?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <a href="https://portfolio-adrian-siles-perez.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=netlify&logoColor=38bdf8" alt="Portfolio"/></a>
+  <img src="https://img.shields.io/badge/Almería,_España-0b1020?style=for-the-badge&logo=googlemaps&logoColor=f87171" alt="Ubicación"/>
+  <img src="https://komarev.com/ghpvc/?username=Asilper86&style=for-the-badge&color=1e3a8a&label=VISITAS" alt="Visitas"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Asilper86"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Desarrollo+web+con+Laravel+y+JavaScript;Automatizaci%C3%B3n+con+Python;Auditor%C3%ADa+y+QA+de+aplicaciones+en+producci%C3%B3n;Power+BI+%C2%B7+Azure+%C2%B7+IoT" alt="Typing"/></a>
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mí
+## 👨‍💻 Sobre mí
 
-- 🏭 Trabajo en **Savian Robotics** probando y auditando aplicaciones en producción (portales web, dashboards Power BI, sensores IoT) y dando soporte técnico.
-- 🌐 Antes, prácticas de **desarrollo web** en Savian (marzo–junio 2026).
-- 🎓 Titulado en **DAW** (Desarrollo de Aplicaciones Web) y cursando el **Curso de Especialización en Desarrollo de Aplicaciones en Python** en el IES Al-Andalus.
-- 🤖 Me interesa automatizar: auditorías automáticas, informes programados con Azure Functions, Raspberry Pi y herramientas con IA.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-### 🛠️ Tecnologías
+- 🏭 **QA de aplicaciones en producción** en **Savian Robotics** (desde jun. 2026): pruebo y audito portales web, dashboards Power BI y sensores IoT, y doy soporte técnico.
+- 🌐 **Prácticas de desarrollo web** en Savian Robotics (mar.–jun. 2026).
+- 🎓 Titulado en **DAW** y cursando el **Curso de Especialización en Desarrollo de Aplicaciones en Python** (IES Al-Andalus, Almería).
+- ⚙️ Me apasiona **automatizar**: auditorías automáticas, informes programados con Azure Functions, Raspberry Pi y herramientas con IA.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,ts,react,html,css,tailwind,mysql,azure,raspberrypi,git,github,linux,vscode&perline=8"/>
-</p>
+</td>
+<td width="45%" valign="top">
 
-`Power BI` · `SQL Server` · `Playwright` · `Jetstream` · `Blade`
+```python
+class Adrian:
+    rol      = "Developer & QA"
+    stack    = ["Python", "Laravel", "JS/TS"]
+    datos    = ["Power BI", "SQL Server"]
+    cloud    = ["Azure Functions"]
+    hardware = ["Raspberry Pi", "IoT"]
+    aprendiendo = "Python avanzado"
+```
 
-### 🚀 Proyectos destacados
+</td>
+</tr>
+</table>
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| [**SavianDM**](https://github.com/Asilper86/SavianDM) | Gestor de dispositivos de Savian: alta, estado y control de equipos/sensores. | Laravel · Blade |
-| **savian-auditory** | Auditorías automáticas y en paralelo de portales web y dashboards Power BI, con detección y registro de errores. | Python |
-| **savian-planner** | Planificador interno para organizar tareas de equipo. | JavaScript |
-| [**TFG F1 Feed**](https://github.com/Asilper86/TFG_F1_FEED) | Proyecto final de DAW: feed/red social sobre Fórmula 1. | PHP |
-| [**Biblioteca Digital**](https://github.com/Asilper86/-Sistema-de-Gesti-n-de-Biblioteca-Digital-con-Laravel-12-Jetstream) | Gestión de biblioteca con autenticación, roles y préstamos. | Laravel 12 · Jetstream |
-| [**V-REPS**](https://github.com/Asilper86/V-REPS) | Aplicación web en TypeScript. | TypeScript |
-| [**TruckTask**](https://github.com/Asilper86/TruckTask) | Gestión de tareas para transporte. | JavaScript |
+## 🧭 Trayectoria
 
-### 📊 Estadísticas
+| Periodo | Rol | Dónde |
+|:--|:--|:--|
+| `Oct 2026 – hoy` | 🎓 Especialización en Desarrollo de Aplicaciones en Python | IES Al-Andalus |
+| `Jun 2026 – hoy` | 🧪 QA / testing de aplicaciones en producción y soporte | Savian Robotics |
+| `Mar – Jun 2026` | 💻 Prácticas de desarrollo web | Savian Robotics |
+| `– 2026` | 🎓 Grado Superior DAW | |
+
+## 🛠️ Stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Asilper86&show_icons=true&theme=tokyonight&hide_border=true&locale=es"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asilper86&layout=compact&theme=tokyonight&hide_border=true&locale=es"/>
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,ts,react,html,css,tailwind&theme=dark" alt="Lenguajes y frameworks"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,azure,raspberrypi,git,github,linux,vscode,postman&theme=dark" alt="Herramientas"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asilper86&theme=tokyonight&hide_border=true&locale=es"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetstream-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blade-F05340?style=flat-square&logo=laravel&logoColor=white"/>
+</p>
+
+## 🚀 Proyectos destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 [SavianDM](https://github.com/Asilper86/SavianDM)
+Gestor de dispositivos: alta, estado y control de equipos y sensores.
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Blade](https://img.shields.io/badge/Blade-F05340?style=flat-square&logo=laravel&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 savian-auditory <sub>· privado</sub>
+Auditorías automáticas y en paralelo de portales web y dashboards Power BI, con detección y registro de errores.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏎️ [TFG F1 Feed](https://github.com/Asilper86/TFG_F1_FEED)
+Proyecto final de DAW: plataforma web sobre Fórmula 1 con feed de noticias y comunidad.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [Biblioteca Digital](https://github.com/Asilper86/-Sistema-de-Gesti-n-de-Biblioteca-Digital-con-Laravel-12-Jetstream)
+Gestión de biblioteca con autenticación, roles y préstamos.
+
+![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Jetstream](https://img.shields.io/badge/Jetstream-6366F1?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗓️ savian-planner <sub>· privado</sub>
+Planificador interno para organizar tareas de equipo.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚚 [TruckTask](https://github.com/Asilper86/TruckTask) · [V-REPS](https://github.com/Asilper86/V-REPS)
+Aplicaciones web en JavaScript y TypeScript.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+## 📊 Actividad en GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Asilper86&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=38bdf8&icon_color=818cf8&locale=es" alt="Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asilper86&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=38bdf8&locale=es" alt="Lenguajes"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Asilper86&theme=tokyonight&hide_border=true&background=0b1020&ring=38bdf8&fire=818cf8&currStreakLabel=38bdf8&locale=es" alt="Racha"/>
+</p>
+
+---
+
+<p align="center"><sub>⚡ Siempre aprendiendo · ¿Hablamos? Visita mi <a href="https://portfolio-adrian-siles-perez.netlify.app/">portfolio</a></sub></p>
