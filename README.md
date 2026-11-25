@@ -69,8 +69,8 @@ class Adrian:
 | `Oct 2026 – hoy` | 🎓 Especialización en Desarrollo de Aplicaciones en Python | IES Al-Andalus |
 | `Jun 2026 – hoy` | 🧪 QA / testing de aplicaciones en producción y soporte | Savian Robotics |
 | `Mar – Jun 2026` | 💻 Prácticas de desarrollo web | Savian Robotics |
-| `2024 – 2026` | 🎓 Grado Superior en Desarrollo de Aplicaciones Web (DAW) | |
-| `2022 – 2024` | 🖥️ Grado Medio en Sistemas Microinformáticos y Redes (SMR) | |
+| `2024 – 2026` | 🎓 Grado Superior en Desarrollo de Aplicaciones Web (DAW) | IES Al-Andalus |
+| `2022 – 2024` | 🖥️ Grado Medio en Sistemas Microinformáticos y Redes (SMR) | IES Al-Andalus |
 
 ## 🛠️ Stack
 
